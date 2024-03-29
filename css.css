@@ -1,0 +1,9 @@
+body {background-image: url(https://image.api.playstation.com/vulcan/ap/rnd/202309/0819/7818cb3cc5e24e54fdd3dc9d839eacbc90e2f8977a16fcde.jpg);
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 100vh;}
+
+    h1 {color:  white;}
+
+span {color: white}
